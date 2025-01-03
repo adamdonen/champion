@@ -15,7 +15,7 @@ Instead, I would like to thank you all for your generous donations to the **Adam
 ## **Jadon Daniels**
 
 Let’s be real — it was always going to be us in the finals. Incredible performance this year, an electric matchup, and ultimately, it could have gone either way. But… it didn’t. 🫡  
-<video controls src="/public/Jadon Daniels.mp4" width="720"></video>
+<video controls src="public/Jadon Daniels.mp4" width="720"></video>
 
 ---
 
