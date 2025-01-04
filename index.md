@@ -142,3 +142,8 @@ First overall pick, last-place finish. The Cleveland Browns of our league. Stoll
 And so, with my name etched into **Avery Cundill league history**, I will leave you with this: this wasn’t just a victory — it was a masterclass. You weren’t just beaten: you were dominated.
 
 **Draft smarter, spend your FAAB, and pray to the Fantasy Gods I don’t repeat. My ego will be unbearable.
+
+Until next season, gentlemen:
+
+Adam Donen I Read The Book Manager 2024 Avery Cundill League Champion
+
