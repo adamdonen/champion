@@ -2,7 +2,7 @@
 title: ""
 
 # Theme for GitHub Pages (you can change "minima" to another supported theme)
-theme: dark-pool
+theme: poole
 
 # Author (optional)
 author: Adam Donen
