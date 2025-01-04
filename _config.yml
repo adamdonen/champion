@@ -9,15 +9,6 @@ author: Adam Donen
 description: Fantasy Football Victory Speech
 email: adam.donen11@gmail.com
 
-# Enable syntax highlighting for code blocks
-markdown: kramdown
-highlighter: rouge
-
-# Jekyll optional settings
-plugins:
-  - jekyll-feed  # RSS feed (optional)
-  - jekyll-seo-tag  # SEO optimizations (optional)
-
 # Exclude specific files or directories
 exclude:
   - README.md
