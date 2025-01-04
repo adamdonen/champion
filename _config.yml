@@ -1,0 +1,28 @@
+# Site title (setting it to empty removes the header title)
+title: ""
+
+# Theme for GitHub Pages (you can change "minima" to another supported theme)
+theme: minima
+
+# Author (optional)
+author: Adam Donen
+description: Fantasy Football Victory Speech
+email: adam.donen11@gmail.com
+
+# Enable syntax highlighting for code blocks
+markdown: kramdown
+highlighter: rouge
+
+# Jekyll optional settings
+plugins:
+  - jekyll-feed  # RSS feed (optional)
+  - jekyll-seo-tag  # SEO optimizations (optional)
+
+# Exclude specific files or directories
+exclude:
+  - README.md
+  - node_modules
+
+# Enable relative permalinks (useful for GitHub Pages)
+relative_permalinks: true
+
