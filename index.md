@@ -1,5 +1,5 @@
 <style>
-  .header_wrap {
+  #header_wrap {
     display: none;
   }
 </style>
@@ -19,7 +19,28 @@ Instead, I would like to thank you all for your generous donations to the Adam D
 Secondly, I would be remiss if I didn’t give thanks to the Fantasy Gods for blessing my season with no injuries, MVP-worthy performances from both Lamar Jackson and Saquon Barkley, and what I can only assume is the highest-scoring finals matchup in league history.
 
 While past victors have generally done a safe approach with their victory speech, I decided to flex my generative AI skills and made indivudal raps for each team. 
+
+
 ---
+<style>
+  .responsive-video {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    border-radius: 10px;
+    margin: 16px auto;
+  }
+
+  .responsive-video video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+</style>
 
 <div class="responsive-video"> 
   <video controls> 
@@ -44,25 +65,6 @@ While past victors have generally done a safe approach with their victory speech
 
 ---
 
-<style>
-  .responsive-video {
-    position: relative;
-    padding-bottom: 56.25%; /* 16:9 aspect ratio */
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
-    border-radius: 10px;
-    margin: 16px auto;
-  }
-
-  .responsive-video video {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-</style>
 
 ---
 
