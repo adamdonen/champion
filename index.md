@@ -4,6 +4,14 @@
 
 I’ve waited almost 14 years for this moment, and you best believe I will be savouring every second of it. Fantasy Football is a game entirely dependent on luck—except if you finish in 1st place. Then it requires skill, effort, and ruthless domination. All of which was on display this season by your champion: *I Read The Book.*
 
+I could point out failed draft picks, like letting the Fantasy RB1 fall to me in the second round. I could mention how much of a stallion Brian Thomas Jr. turned out to be. I could list winning moves like picking Tyrone Tracy Jr. off waivers or how Cameron "Horse Cock" Dicker the Kicker came in clutch during the championship. Or, of course, I could mention Noah offering the worst trades in fantasy history — only for me to turn the tables and take George Kittle off his hands for a metaphorical bag of dicks.
+
+But I won’t mention any of that.
+
+Instead, I would like to thank you all for your generous donations to the Adam Donen’s Bank Account Foundation. Your contributions will go toward a custom championship ring that will be proudly on display at all future fantasy football proceedings.
+
+Secondly, I would be remiss if I didn’t give thanks to the Fantasy Gods for blessing my season with no injuries, MVP-worthy performances from both Lamar Jackson and Saquon Barkley, and what I can only assume is the highest-scoring finals matchup in league history.
+
 ---
 
 ## **Table of Contents**
@@ -195,6 +203,6 @@ And so, with my name etched into **Avery Cundill league history**, I will leave 
 
 Until next season, gentlemen:
 
-# Adam Donen  
-*I Read The Book Manager*  
-*2024 Avery Cundill League Champion*
+## Adam Donen  
+## I Read The Book Manager*  
+## 2024 Avery Cundill League Champion*
