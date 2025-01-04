@@ -1,6 +1,12 @@
+<style>
+  .header_wrap {
+    display: none;
+  }
+</style>
+
 # Fantasy Football Victory Speech
 
-## Buenos Díaz, losers
+## Buenos Tardes, losers
 
 I’ve waited almost 14 years for this moment, and you best believe I will be savouring every second of it. Fantasy Football is a game entirely dependent on luck—except if you finish in 1st place. Then it requires skill, effort, and ruthless domination. All of which was on display this season by your champion: *I Read The Book.*
 
