@@ -14,6 +14,13 @@ Secondly, I would be remiss if I didn’t give thanks to the Fantasy Gods for bl
 
 ---
 
+<div class="responsive-video"> 
+  <video controls> 
+    <source src="./champion.mp4" type="video/mp4"> 
+    Your browser does not support the video tag. 
+  </video> 
+</div>
+
 ## **Table of Contents**
 
 1. [Jadon Daniels (2nd Place)](#jadon-daniels-2nd-place)
