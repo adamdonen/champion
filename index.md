@@ -6,7 +6,7 @@
 
 # Fantasy Football Victory Speech
 
-## Buenos Tardes, losers
+### Buenos Tardes, losers
 
 I’ve waited almost 14 years for this moment, and you best believe I will be savouring every second of it. Fantasy Football is a game entirely dependent on luck—except if you finish in 1st place. Then it requires skill, effort, and ruthless domination. All of which was on display this season by your champion: *I Read The Book.*
 
@@ -14,11 +14,11 @@ I could point out failed draft picks, like letting the Fantasy RB1 fall to me in
 
 But I won’t mention any of that.
 
-Instead, I would like to thank you all for your generous donations to the Adam Donen’s Bank Account Foundation. Your contributions will go toward a custom championship ring that will be proudly on display at all future fantasy football proceedings.
+Instead, I would like to thank you all for your generous donations to the *Adam Donen’s Bank Account Foundation*. Your contributions will go toward a custom championship ring that will be proudly on display at all future fantasy football proceedings.
 
 Secondly, I would be remiss if I didn’t give thanks to the Fantasy Gods for blessing my season with no injuries, MVP-worthy performances from both Lamar Jackson and Saquon Barkley, and what I can only assume is the highest-scoring finals matchup in league history.
 
-While past victors have generally done a safe approach with their victory speech, I decided to flex my generative AI skills and made indivudal raps for each team. 
+While past victors have generally done a safe and boring approach with their victory speeches, I've decided to flex my generative AI skills and made indivudal raps roasts for each team.
 
 
 ---
@@ -63,10 +63,6 @@ While past victors have generally done a safe approach with their victory speech
 10. [Fifth Win Today (11th Place)](#fifth-win-today-11th-place)
 11. [Bad Nabers (12th Place)](#bad-nabers-12th-place)
 
----
-
-
----
 
 ## **Jadon Daniels (2nd Place)**
 
@@ -187,7 +183,7 @@ Another year, another Cundill-led fantasy football disappointment. Another team 
 
 ## **Fifth Win Today (11th Place)**
 
-Another fantasy season at the bottom of the standings. My epic comeback on MNF propelled my squad to domiance but to be perfectly honest, I have not read your fantasy football book but that’s probably for the best, considering the performances you’ve displayed since writing it.*15 - 27* 😬 The title for the sequel should be *“I Don’t Know Fantasy Football.”* 🫡  
+Another fantasy season at the bottom of the standings. My epic comeback on MNF propelled my squad to domiance but to be perfectly honest, I have not read your fantasy football book but that’s probably for the best, considering the performances you’ve displayed since writing it. ***15 - 27*** 😬 The title for the sequel should be *“I Don’t Know Fantasy Football.”* 🫡  
 
 <div class="responsive-video">
   <video controls>
@@ -211,14 +207,12 @@ First overall pick, last-place finish. The Cleveland Browns of our league. Stoll
 
 ---
 
-## **Final Thoughts**
+<br></br>
 
-And so, with my name etched into **Avery Cundill league history**, I will leave you with this: this wasn’t just a victory — it was a masterclass. You weren’t just beaten: you were dominated.
-
-**Draft smarter, spend your FAAB, and pray to the Fantasy Gods I don’t repeat. My ego will be unbearable.**
+And so, with my name etched into Avery Cundill league history forever, I will leave you with this: I am the best at fantasy football and you all suck. 
 
 Until next season, gentlemen:
 
 ## Adam Donen  
-## I Read The Book Manager*  
-## 2024 Avery Cundill League Champion*
+## I Read The Book Manager
+## 2024 Avery Cundill League Champion & Your Father
