@@ -9,11 +9,7 @@ I’ve waited almost 14 years for this moment, and you best believe I will be sa
 ## **Jadon Daniels**
 
 Let’s be real — it was always going to be us in the finals. Incredible performance this year, an electric matchup, and ultimately, it could have gone either way. But… it didn’t. 🫡  
-<video controls width="720">
-  <source src="/public/Jadon Daniels.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+https://github.com/adamdonen/champion/blob/0ac6a4479efbfd0fceba34c29aecef557e5b4c8c/public/Jadon%20Daniels.mp4
 ---
 
 ## **Chef Wort**
