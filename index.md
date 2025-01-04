@@ -75,7 +75,7 @@ Let’s be real — it was always going to be us in the finals. Incredible perfo
 
 ## **Chef Wort (3rd Place)**
 
-It was a fine effort, but a team can only be carried by one player for so long. Second year in the league and finishing on the podium is an honourable achievement. 🫡  
+It was a ok effort, but a team can only be carried by one player for so long. Second year in the league and finishing on the podium is an honourable achievement. 🫡  
 
 <div class="responsive-video">
   <video controls>
@@ -127,7 +127,7 @@ Mike Davis can’t swim, and neither can your fantasy dreams. Ripping off Cundil
 
 ## **JULIO THINK YOU ARE (7th Place)**
 
-For a guy who hates making trades, I never would’ve guessed you’d be involved in a collusion scandal that sent shockwaves through this group chat like we’ve never seen. Julio hasn’t played a snap in two seasons. It’s time to change the fantasy team name… and also the strategy. 🫡  
+For a guy who hates making trades, I never would’ve guessed you’d be involved in a collusion scandal that sent shockwaves through this group chat like we’ve never seen. I hate to say it but Julio hasn’t played a snap in two seasons. It’s time for a rebuild and rebranding of the fantasy team. 🫡  
 
 <div class="responsive-video">
   <video controls>
@@ -140,7 +140,7 @@ For a guy who hates making trades, I never would’ve guessed you’d be involve
 
 ## **CRASHED Rice (8th Place)**
 
-Your season was derailed faster than Rashee Rice was driving during his car crash. Sincere McCormick at flex in the first round of the playoffs was never going to get it done, but as a multi-time winner, you’ll get no sympathy from me. 🫡  
+Your season was derailed faster than Rashee Rice was driving during his car crash. Sincere McCormick at flex in the first round of the playoffs, is all that needs to be said. Thank you for stealing the final playoff spot from an actual contender, and making my road to victory that much easier 🫡  
 
 <div class="responsive-video">
   <video controls>
@@ -153,7 +153,7 @@ Your season was derailed faster than Rashee Rice was driving during his car cras
 
 ## **JSN Fab (9th Place)**
 
-Third in points but ninth in standings is insane. As someone who calculates probabilities for a living, not even you could have seen that coming. I appreciate you standing up for the integrity of the league with such ferociousness. 🫡  
+Third in points, ninth in standings is sad but a first team all pro dovmocracy performance standing up for the integrity of leauge is nothing to be ashamed of. Spend less time studying for useless actuarial exams and more time on whats actually important, fantasy football, and maybe you'll get back to the podium someday. 🫡  
 
 <div class="responsive-video">
   <video controls>
@@ -166,7 +166,7 @@ Third in points but ninth in standings is insane. As someone who calculates prob
 
 ## **My Team Sucks (10th Place)**
 
-Another year, another Cundill-led fantasy football team filled with subpar Carolina Panthers players and Jags running backs. It’s time to recruit Ruth Ashrafi for some prayer advice because your fantasy team needs divine intervention. 🫡  
+Another year, another Cundill-led fantasy football disappointment. Another team filled with Panthers and Jags running backs and shitty players on shitty teams. I am placing my futures bet for the 2025 fantasy season - Cundill to think he has a good team and miss the playoffs (+250) 🫡  
 
 <div class="responsive-video">
   <video controls>
@@ -179,7 +179,7 @@ Another year, another Cundill-led fantasy football team filled with subpar Carol
 
 ## **Fifth Win Today (11th Place)**
 
-To be perfectly honest, I have not read your fantasy football book — but that’s probably for the best, considering the performances you’ve displayed since writing it. The title for the sequel should be *“I Don’t Know Fantasy Football.”* 🫡  
+Another fantasy season at the bottom of the standings. My epic comeback on MNF propelled my squad to domiance but to be perfectly honest, I have not read your fantasy football book but that’s probably for the best, considering the performances you’ve displayed since writing it.*15 - 27* 😬 The title for the sequel should be *“I Don’t Know Fantasy Football.”* 🫡  
 
 <div class="responsive-video">
   <video controls>
