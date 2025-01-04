@@ -2,7 +2,7 @@
 title: ""
 
 # Theme for GitHub Pages (you can change "minima" to another supported theme)
-theme: alembic
+theme: jekyll-theme-cayman
 
 # Author (optional)
 author: Adam Donen

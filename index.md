@@ -12,6 +12,7 @@ Instead, I would like to thank you all for your generous donations to the Adam D
 
 Secondly, I would be remiss if I didn’t give thanks to the Fantasy Gods for blessing my season with no injuries, MVP-worthy performances from both Lamar Jackson and Saquon Barkley, and what I can only assume is the highest-scoring finals matchup in league history.
 
+While past victors have generally done a safe approach with their victory speech, I decided to flex my generative AI skills and made indivudal raps for each team. 
 ---
 
 <div class="responsive-video"> 
