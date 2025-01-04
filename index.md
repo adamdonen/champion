@@ -145,8 +145,8 @@ And so, with my name etched into **Avery Cundill league history**, I will leave 
 
 Until next season, gentlemen:
 
-###Adam Donen 
+# Adam Donen 
 
-##I Read The Book Manager 2024 
+## I Read The Book Manager 2024 
 
-#Avery Cundill League Champion
+### Avery Cundill League Champion
