@@ -27,113 +27,146 @@ Instead, I would like to thank you all for your generous donations to the **Adam
 
 ---
 
-## **Jadon Daniels**
+## **Jadon Daniels (2nd Place)**
 
 Let’s be real — it was always going to be us in the finals. Incredible performance this year, an electric matchup, and ultimately, it could have gone either way. But… it didn’t. 🫡  
-<video controls width="720">
-  <source src="./Jadon Daniels.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+<div align="center">
+  <video controls width="720" height="480">
+    <source src="./Jadon Daniels.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ---
 
-## **Chef Wort**
+## **Chef Wort (3rd Place)**
 
 It was a fine effort, but a team can only be carried by one player for so long. Second year in the league and finishing on the podium is an honourable achievement. 🫡  
-<video controls width="720">
-  <source src="./Chef Wort.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+<div align="center">
+  <video controls width="720" height="480">
+    <source src="./Chef Wort.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ---
 
-## **Through the Perilous Fight!**
+## **Through the Perilous Fight! (4th Place)**
 
 Your fantasy season was a lot like the Dolphins — started off with a lot of promise, only for your stars to disappear when you needed them the most. O'er the ramparts we watched — 2025 season will go hard. 🫡  
-<video controls width="720">
-  <source src="./Through the Perilous FIGHT!.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+<div align="center">
+  <video controls width="720" height="480">
+    <source src="./Through the Perilous FIGHT!.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ---
 
-## **Vodcua and Chase**
+## **Vodcua and Chase (5th Place)**
 
 For a team with so much talent, getting bent over by Josh Allen in the first round would be a lot more upsetting if you weren’t the defending champion. I thought you had a real shot at going back-to-back, but I will happily take the championship reign off your hands. 🫡  
-<video controls width="720">
-  <source src="./Vodcua and Chase.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+<div align="center">
+  <video controls width="720" height="480">
+    <source src="./Vodcua and Chase.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ---
 
-## **And Learn**
+## **And Learn (6th Place)**
 
 Mike Davis can’t swim, and neither can your fantasy dreams. Ripping off Cundill for Justin Jefferson wasn’t enough to get you over the hump. I’ll be patiently awaiting my victory funds at **adam.donen11@gmail.com.** 🫡  
-<video controls width="720">
-  <source src="./And Learn.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+<div align="center">
+  <video controls width="720" height="480">
+    <source src="./And Learn.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ---
 
-## **JULIO THINK YOU ARE**
+## **JULIO THINK YOU ARE (7th Place)**
 
 For a guy who hates making trades, I never would’ve guessed you’d be involved in a collusion scandal that sent shockwaves through this group chat like we’ve never seen. Julio hasn’t played a snap in two seasons. It’s time to change the fantasy team name… and also the strategy. 🫡  
-<video controls width="720">
-  <source src="./JULIO THINK YOU ARE.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+<div align="center">
+  <video controls width="720" height="480">
+    <source src="./JULIO THINK YOU ARE.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ---
 
-## **CRASHED Rice**
+## **CRASHED Rice (8th Place)**
 
 Your season was derailed faster than Rashee Rice was driving during his car crash. Sincere McCormick at flex in the first round of the playoffs was never going to get it done, but as a multi-time winner, you’ll get no sympathy from me. 🫡  
-<video controls width="720">
-  <source src="./Crashed Rice.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+<div align="center">
+  <video controls width="720" height="480">
+    <source src="./Crashed Rice.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ---
 
-## **JSN Fab**
+## **JSN Fab (9th Place)**
 
 Third in points but ninth in standings is insane. As someone who calculates probabilities for a living, not even you could have seen that coming. I appreciate you standing up for the integrity of the league with such ferociousness. 🫡  
-<video controls width="720">
-  <source src="./JSN Fab.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+<div align="center">
+  <video controls width="720" height="480">
+    <source src="./JSN Fab.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ---
 
-## **My Team Sucks**
+## **My Team Sucks (10th Place)**
 
 Another year, another Cundill-led fantasy football team filled with subpar Carolina Panthers players and Jags running backs. It’s time to recruit Ruth Ashrafi for some prayer advice because your fantasy team needs divine intervention. 🫡  
-<video controls width="720">
-  <source src="./My Team Sucks.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+<div align="center">
+  <video controls width="720" height="480">
+    <source src="./My Team Sucks.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ---
 
-## **Fifth Win Today**
+## **Fifth Win Today (11th Place)**
 
 To be perfectly honest, I have not read your fantasy football book — but that’s probably for the best, considering the performances you’ve displayed since writing it. The title for the sequel should be *“I Don’t Know Fantasy Football.”* 🫡  
-<video controls width="720">
-  <source src="./Fifth Win Today.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+<div align="center">
+  <video controls width="720" height="480">
+    <source src="./Fifth Win Today.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ---
 
-## **Bad Nabers**
+## **Bad Nabers (12th Place)**
 
 First overall pick, last-place finish. The Cleveland Browns of our league. Stoller and Benny Shanks co-led a team to the worst losing streak in league history. Stoller, you have successfully managed to come in last place both times you were part of a co-led team. It’s time to look in the mirror. 🫡  
-<video controls width="720">
-  <source src="./Bad Nabers.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+<div align="center">
+  <video controls width="720" height="480">
+    <source src="./Bad Nabers.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ---
 
