@@ -2,7 +2,7 @@
 title: ""
 
 # Theme for GitHub Pages (you can change "minima" to another supported theme)
-theme: minima
+theme: jekyll-theme-midnight
 
 # Author (optional)
 author: Adam Donen
